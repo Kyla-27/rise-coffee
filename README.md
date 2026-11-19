@@ -1,2 +1,5 @@
 # rise-coffee
-Fall 2026 DESN340_P1
+A coffee shop site, built by hand in HTML and CSS for DESN340.
+**Live site:**
+[https://kyla-27.github.io/rise-coffee/]
+(https://kyla-27.github.io/rise-coffee/)
